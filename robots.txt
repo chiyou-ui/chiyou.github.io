@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/chiyou-ui/sitemap.xml
+Sitemap: https://newzone.top/chiyou.github.io/sitemap.xml
